@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Nihao
 
 Sub2
 
 shi wo
+=======
+Hello
+
+Sub2
+
+is me
+>>>>>>> sub
